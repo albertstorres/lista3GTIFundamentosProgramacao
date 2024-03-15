@@ -15,5 +15,6 @@ tabuada = int(input("Montar tabuada do: "))
 comecar = int(input("Começar por: "))
 terminar = int(input("Terminar em: ")) + 1
 
+
 for i in range (comecar, terminar) :
     print(f"{tabuada} x {i} = {tabuada * i}")
