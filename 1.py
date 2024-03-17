@@ -18,7 +18,7 @@ for  i in range(quantidade_de_pessoas_do_grupo) :
 
 media_dos_pesos = soma_dos_pesos / quantidade_de_pessoas_do_grupo
 
-print(F"Média dos pesos: {media_dos_pesos} kg")
+print(f"Média dos pesos: {media_dos_pesos} kg")
 print(f"Quantidade de pessoas acima de 80 kg: {pessoa_acima_80}")
     
     
